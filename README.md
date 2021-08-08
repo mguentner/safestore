@@ -3,7 +3,7 @@
 store arbitrary data under a key authenticated using e-mail accounts (passwordless).
 
 Authentication only needs to happen once as long as the client can (locally store) the
-refresh token and also refreshed regularly.
+refresh token and also refreshes regularly.
 
 # Usage
 
