@@ -11,7 +11,7 @@ tokenFormat: "numeric"
 tokenLength: 8
 statePath: "testState"
 keyPath: "testKeys"
-serviceName: "PasswordlessTest"
+serviceName: "safestore"
 accessTokenLifetimeSeconds: 600
 refreshTokenLifetimeSeconds: 1200
 storageOptions:
